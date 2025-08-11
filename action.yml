@@ -1,5 +1,5 @@
 # action.yml
-name: 'Basic Linux Commands' # User-friendly name for the action
+name: 'Basic-Linux-Commands' # User-friendly name for the action
 description: 'Runs the `who` and `date` Linux commands and prints their output.'
 runs:
   using: "composite" # Defines this as a composite action
