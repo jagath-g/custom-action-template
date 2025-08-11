@@ -20,7 +20,7 @@ jobs:
       - name: Execute my custom Linux Commands Action
         # Reference your action using its repository path and version tag
         # Replace 'YOUR_GITHUB_USERNAME' with your actual username/organization name
-        uses: jagath-g/Basic Linux Commands-action@v1
+        uses: jagath-g/Basic Linux Commands
 
       # You can add more steps here for building, testing, deploying, etc.
       - name: Show build complete message
